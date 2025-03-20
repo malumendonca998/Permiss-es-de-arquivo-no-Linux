@@ -65,7 +65,3 @@ Foram realizadas as seguintes alterações utilizando o comando `chmod` no termi
 
 ---
 
-## Como Executar o Projeto 🚀  
-1. Clone o repositório:  
-   ```bash  
-   git clone https://github.com/seu-usuario/auditoria-permissoes.git  
